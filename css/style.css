@@ -1,0 +1,16 @@
+section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90px !important;
+  border: #f4f4f4 solid 3px !important;
+}
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+.imageContainer{
+  width: 10px;
+  height: auto;
+}
+.locationContainer{
+  text-align: center;
+}
